@@ -1,0 +1,13 @@
+{
+  "name": "stage",
+  "version": "1.0.0",
+  "data": [
+    { "id": 1000, "time": 10, "ScoreForTime": 1 },
+    { "id": 1001, "time": 30, "ScoreForTime": 5 },
+    { "id": 1002, "time": 50, "ScoreForTime": 10 },
+    { "id": 1003, "time": 100, "ScoreForTime": 15 },
+    { "id": 1004, "time": 200, "ScoreForTime": 20 },
+    { "id": 1005, "time": 300, "ScoreForTime": 30 },
+    { "id": 1006, "time": 400, "ScoreForTime": 50 }
+  ]
+}
